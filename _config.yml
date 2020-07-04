@@ -2,7 +2,7 @@
 title: Jossie Haines
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/site/" # the subpath of your site, e.g. /blog/
-url: "jossiehaines.com" # the base hostname & protocol for your site
+url: "https://selfrescuingprincess.github.io" # the base hostname & protocol for your site
 author: Copyright &copy; 2020 - Jossie Haines
 lang: en_US
 
