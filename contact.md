@@ -4,23 +4,24 @@ title: Contact
 background_style: bg-info
 background_image: url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
 permalink: /contact
----
 
-  <form accept-charset="UTF-8" action="https://formspree.io/xleppdrd" method="POST" target="_blank">
-    <div class="form-group">
-    <label for="email" required="required">Email address
-        <input type="email" name="email">
-    </label>
+sections:
+- type: paragraph.html
+  section_id: contact
+  title: Reach Out!
+  background_style: bg-info
+  text: >+
+    <div class="form-box">
+    <form accept-charset="UTF-8" action="https://formspree.io/xleppdrd" method="POST" target="_blank">
+        <label for="name">Name</label>
+      <input id="name" type="text" name="Name">
+    
+      <label for="email">Email</label>
+      <input id="email" type="email" name="Email">
+    
+      <label for="message">Message</label>
+      <textarea id="message" name="Message"></textarea>
+    <input class="btn-primary" type="submit" value="Submit" />
+      </form>
     </div>
-    <div class="form-group">
-    <label for="name">Name
-        <input type="text" name="name" class="form-control" id="name" placeholder="Enter your name" required="required">
-    </label>
-    </div>
-    <div class="form-group">
-    <label for="message">Message:
-        <textarea type="text" name="name" required="required"></textarea>
-    </label>    
-    </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
-  </form>
+---
