@@ -3,8 +3,8 @@ layout: home
 header:
   title: Jossie Haines
   text: >-
-    Product Engineering Sr Director – Consumer Technology  <br /> 
-    Engineering Leader | Public Speaker | Diversity & Inclusion
+    Sr Product Engineering Director – Consumer Technology  <br /> 
+    Engineering Leader | Public Speaker | Diversity & Inclusion Advocate | Board Advisor
 
 sections:
   - type: paragraph.html
@@ -22,20 +22,24 @@ sections:
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      What to book Jossie for a speaking engagement, coaching session, or advisory work?  Reach out below:
+      Want to book Jossie for a speaking engagement, coaching session, or advisory work?  Reach out below:
     actions:
     - title: Contact Form
       icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
+      url: mailto:jossie@jossiehaines.com
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
-      url: '#'
+      url: 'https://twitter.com/maidmarianjd'
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
-      url: '#'
+      url: 'https://www.facebook.com/JossieHaines'
+    - title: LinkedIn
+      icon: fa-linkedin
+      icon_type: fab
+      url: 'https://www.linkedin.com/in/jossiemann'
 
 ---
